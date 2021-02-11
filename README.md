@@ -1,0 +1,1 @@
+Simple Beat Saber mod that prevents ScoreSaber from hiding the Play button.
